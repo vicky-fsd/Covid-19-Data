@@ -1,0 +1,48 @@
+.heading{
+    text-align:justify;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:450px;
+    color: indigo;
+    background: url(https://apps.bbmpgov.in/Covid19/en/images/banner.png);
+    
+    
+}
+.container{
+    background: url(https://covid19.odisha.gov.in/images/gfx/banner.png);
+}
+.card {
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    
+    border-radius: 5px;
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: center;
+    color: indigo;
+}
+.top{
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .row{
+    margin-top: 20px;
+  }
+  .foot{
+    text-align: center;
+    font-family: sans-serif;
+    color:indigo;
+    font-weight: bold;
+    margin: 10px;
+  }
